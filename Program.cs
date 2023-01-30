@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp2
+﻿namespace Question1
 {
     internal class Program
     {
